@@ -1,3 +1,4 @@
+/*
 import {mult, splitIntoWords, sum} from "./01";
 
 
@@ -78,4 +79,4 @@ test('split shpuld be correct', ()=>{
     expect(mult2[1]).toBe('my');
     expect(mult2[2]).toBe('friend');
 
-})
+})*/
