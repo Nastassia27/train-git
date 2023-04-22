@@ -1,3 +1,4 @@
+/*
 type UserType = {
     [key: string]: { id: string, name: string }
 }
@@ -32,4 +33,4 @@ export const userArray = [
 ]
 
 userArray.find (user => user.id === '10')
-userArray.filter(user => user.id === '10')
+userArray.filter(user => user.id === '10')*/
